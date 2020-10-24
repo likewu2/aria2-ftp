@@ -52,6 +52,5 @@ main.js.map
 npm-debug.log.*
 
 # aria2c binary
-aria2/aria2c*
 aria2/COPYING
 aria2/LICENSE.OpenSSL
